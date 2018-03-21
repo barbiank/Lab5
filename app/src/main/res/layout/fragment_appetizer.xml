@@ -8,7 +8,7 @@
         android:id="@+id/imageView"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:contentDescription="@string/ui_tabname_breakfast"
+        android:contentDescription="@string/ui_tabname_appetizer"
         android:orientation="horizontal"
         android:src="@drawable/breakfast">
 
